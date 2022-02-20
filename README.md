@@ -10,4 +10,8 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 
+### Functions Defined
+
+* The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists
+
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
